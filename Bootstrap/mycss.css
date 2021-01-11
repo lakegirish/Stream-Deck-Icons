@@ -1,0 +1,43 @@
+div
+{
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    bottom: 1px;
+    left: 1px;
+    /* background: rgb(92,212,26); */
+    background: linear-gradient(180deg, rgb(226, 100, 100) 78%, rgb(229, 165, 165) 99%);
+    /* justify-content: center; */
+    /* align-content: center; */
+    /* align-items:center;  */
+    text-align:center;
+    border:1px solid rgb(145, 255, 0);
+    border-radius: .5em;    
+    font-size: 1800%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    color: ivory;
+    height: 1920px;
+    
+
+
+
+ }
+/* div {
+    position:fixed;
+    padding:0;
+    margin:0;
+
+    top:0;
+    left:0;
+
+    width: 100%;
+    height: 100%;
+    background: rgb(92,212,26);
+    background: linear-gradient(90deg, rgba(92,212,26,1) 20%, rgba(248,255,255,1) 96%);
+    text-align: center;
+    align-items:
+
+} */
